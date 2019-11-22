@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Movie</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="release">Release</string>
+
+    <string name="movie">Movie</string>
+    <string name="tvshow">Tv Show</string>
+    <string name="fav">Favorite</string>
+    <string name="tab_fav_movie">Fav Movie</string>
+    <string name="tab_fav_tv">Fav Tv Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu_fav">Favorite</string>
+
+
+</resources>
